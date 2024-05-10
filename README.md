@@ -23,7 +23,7 @@ MastuFile is a Python script that allows you to search for phone numbers and ass
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/masturbyte/mastufile.git
+    git clone https://github.com/masturbyte/MastuFile.git
     ```
 
 2. Install the required packages:
