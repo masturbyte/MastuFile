@@ -56,7 +56,3 @@ Contributions are welcome! If you want to contribute to this project, feel free 
 
 License:
 This project is licensed under the MIT License.
-
-Feel free to adjust any part of this README.md according to your preferences or additional information you want to provide about your script.
-
-I added proper indentation for code blocks, corrected the formatting of the "How to Run" section, and added an "Example" section to demonstrate how to use the script.
