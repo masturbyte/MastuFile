@@ -9,7 +9,7 @@ Ahmed Kori
 ## GitHub:
 
 [@masturbyte](https://github.com/masturbyte)
-
+![MastuFile Logo](images/mastufile_logo.jpg)
 ## Description:
 
 MastuFile is a Python script that allows you to search for phone numbers and associated names on platforms like Facebook, LinkedIn, and other websites. It uses Google search to find relevant information based on the provided phone number and name.
